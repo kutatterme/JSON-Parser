@@ -75,7 +75,7 @@ void ParseFile(char temp [])
                         ip->valuestring,
                         children_1->valuestring,
                         TagAlong);
-                    puts(TagAlong2);
+                    system(TagAlong2);
                 }
             }
         }
