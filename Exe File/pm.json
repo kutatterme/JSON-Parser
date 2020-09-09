@@ -1,0 +1,1069 @@
+{
+    "user_name": "kayhanakbay",
+    "user_password": "password",
+    "repo_ip": "192.168.1.8",
+    "repos": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "Documentation",
+                        "root_path": "/5IO-Expansion/Documentation",
+                        "url": "interra4/5io-expansion/documentation.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/5IO-Expansion/Mechanics",
+                        "url": "interra4/5io-expansion/mechanics.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/5IO-Expansion/Firmware",
+                        "url": "interra4/5io-expansion/firmware.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/5IO-Expansion/Hardware",
+                        "url": "interra4/5io-expansion/hardware.git"
+                    }
+                ],
+                "name": "5IO-Expansion",
+                "root_path": "/5IO-Expansion",
+                "url": "http://pm.interra.com.tr/groups/interra4/5io-expansion"
+            },
+            {
+                "children": [
+                    {
+                        "name": "templates",
+                        "root_path": "/Altium/templates",
+                        "url": "altium/templates.git"
+                    },
+                    {
+                        "name": "Configurations",
+                        "root_path": "/Altium/Configurations",
+                        "url": "altium/configurations.git"
+                    },
+                    {
+                        "name": "Library",
+                        "root_path": "/Altium/Library",
+                        "url": "altium/library.git"
+                    }
+                ],
+                "name": "Altium",
+                "root_path": "/Altium",
+                "url": "http://pm.interra.com.tr/groups/altium"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "Software",
+                                "root_path": "/Archive/MECentralGateway/Software",
+                                "url": "archive/mecentralgateway/software.git"
+                            },
+                            {
+                                "name": "Documentation",
+                                "root_path": "/Archive/MECentralGateway/Documentation",
+                                "url": "archive/mecentralgateway/documentation.git"
+                            }
+                        ],
+                        "name": "MECentralGateway",
+                        "root_path": "/Archive/MECentralGateway",
+                        "url": "http://pm.interra.com.tr/groups/archive/mecentralgateway"
+                    },
+                    {
+                        "name": "SMPS",
+                        "root_path": "/Archive/SMPS",
+                        "url": "archive/smps.git"
+                    },
+                    {
+                        "name": "PCBoxButton",
+                        "root_path": "/Archive/PCBoxButton",
+                        "url": "archive/pcboxbutton.git"
+                    },
+                    {
+                        "name": "POE",
+                        "root_path": "/Archive/POE",
+                        "url": "archive/poe.git"
+                    }
+                ],
+                "name": "Archive",
+                "root_path": "/Archive",
+                "url": "http://pm.interra.com.tr/groups/archive"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Hardware",
+                        "root_path": "/Combo/Hardware",
+                        "url": "combo/hardware.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/Combo/Mechanics",
+                        "url": "combo/mechanics.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/Combo/Firmware",
+                        "url": "combo/firmware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/Combo/Documentation",
+                        "url": "combo/documentation.git"
+                    },
+                    {
+                        "name": "Knx",
+                        "root_path": "/Combo/Knx",
+                        "url": "combo/knx.git"
+                    }
+                ],
+                "name": "Combo",
+                "root_path": "/Combo",
+                "url": "http://pm.interra.com.tr/groups/combo"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Knx",
+                        "root_path": "/DaikinGateway/Knx",
+                        "url": "daikingateway/knx.git"
+                    },
+                    {
+                        "name": "Reverse",
+                        "root_path": "/DaikinGateway/Reverse",
+                        "url": "daikingateway/reverse.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/DaikinGateway/Hardware",
+                        "url": "daikingateway/hardware.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/DaikinGateway/Mechanics",
+                        "url": "daikingateway/mechanics.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/DaikinGateway/Firmware",
+                        "url": "daikingateway/firmware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/DaikinGateway/Documentation",
+                        "url": "daikingateway/documentation.git"
+                    }
+                ],
+                "name": "DaikinGateway",
+                "root_path": "/DaikinGateway",
+                "url": "http://pm.interra.com.tr/groups/daikingateway"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Knx",
+                        "root_path": "/DaliKNXGateway/Knx",
+                        "url": "daligateway/knx.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/DaliKNXGateway/Firmware",
+                        "url": "daligateway/firmware.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/DaliKNXGateway/Hardware",
+                        "url": "daligateway/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/DaliKNXGateway/Documentation",
+                        "url": "daligateway/documentation.git"
+                    }
+                ],
+                "name": "DaliKNXGateway",
+                "root_path": "/DaliKNXGateway",
+                "url": "http://pm.interra.com.tr/groups/daligateway"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Software",
+                        "root_path": "/DND/Software",
+                        "url": "dnd/software.git"
+                    },
+                    {
+                        "name": "KNX",
+                        "root_path": "/DND/KNX",
+                        "url": "dnd/knx.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/DND/Mechanics",
+                        "url": "dnd/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/DND/Hardware",
+                        "url": "dnd/hardware.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/DND/Firmware",
+                        "url": "dnd/firmware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/DND/Documentation",
+                        "url": "dnd/documentation.git"
+                    }
+                ],
+                "name": "DND",
+                "root_path": "/DND",
+                "url": "http://pm.interra.com.tr/groups/dnd"
+            },
+            {
+                "children": [
+                    {
+                        "name": "InterraLib.Forms",
+                        "root_path": "/DotNet/InterraLib.Forms",
+                        "url": "library/dotnet/interralib.forms.git"
+                    },
+                    {
+                        "name": "Interra.Forms.LangEdit",
+                        "root_path": "/DotNet/Interra.Forms.LangEdit",
+                        "url": "library/dotnet/interra.forms.langedit.git"
+                    }
+                ],
+                "name": "DotNet",
+                "root_path": "/DotNet",
+                "url": "http://pm.interra.com.tr/groups/library/dotnet"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Interra Gateway",
+                        "root_path": "/GRMS/Interra Gateway",
+                        "url": "grms/interra-gateway.git"
+                    }
+                ],
+                "name": "GRMS",
+                "root_path": "/GRMS",
+                "url": "http://pm.interra.com.tr/groups/grms"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/IConnect/Mechanics",
+                        "url": "iconnect/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/IConnect/Hardware",
+                        "url": "iconnect/hardware.git"
+                    },
+                    {
+                        "name": "BSP",
+                        "root_path": "/IConnect/BSP",
+                        "url": "iconnect/bsp.git"
+                    }
+                ],
+                "name": "IConnect",
+                "root_path": "/IConnect",
+                "url": "http://pm.interra.com.tr/groups/iconnect"
+            },
+            {
+                "children": [
+                    {
+                        "name": "mechanics",
+                        "root_path": "/IControl/mechanics",
+                        "url": "icontrol/mechanics.git"
+                    },
+                    {
+                        "name": "software",
+                        "root_path": "/IControl/software",
+                        "url": "icontrol/software.git"
+                    },
+                    {
+                        "name": "hardware",
+                        "root_path": "/IControl/hardware",
+                        "url": "icontrol/hardware.git"
+                    }
+                ],
+                "name": "IControl",
+                "root_path": "/IControl",
+                "url": "http://pm.interra.com.tr/groups/icontrol"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Firmware",
+                        "root_path": "/iMini/Firmware",
+                        "url": "imini/firmware.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/iMini/Mechanics",
+                        "url": "imini/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/iMini/Hardware",
+                        "url": "imini/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/iMini/Documentation",
+                        "url": "imini/documentation.git"
+                    }
+                ],
+                "name": "iMini",
+                "root_path": "/iMini",
+                "url": "http://pm.interra.com.tr/groups/imini"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Software",
+                        "root_path": "/InfraredGateway/Software",
+                        "url": "infraredgateway/software.git"
+                    },
+                    {
+                        "name": "KNX",
+                        "root_path": "/InfraredGateway/KNX",
+                        "url": "infraredgateway/knx.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/InfraredGateway/Mechanics",
+                        "url": "infraredgateway/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/InfraredGateway/Hardware",
+                        "url": "infraredgateway/hardware.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/InfraredGateway/Firmware",
+                        "url": "infraredgateway/firmware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/InfraredGateway/Documentation",
+                        "url": "infraredgateway/documentation.git"
+                    }
+                ],
+                "name": "InfraredGateway",
+                "root_path": "/InfraredGateway",
+                "url": "http://pm.interra.com.tr/groups/infraredgateway"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "Documentation",
+                                "root_path": "/Interra4/5IO-Expansion/Documentation",
+                                "url": "interra4/5io-expansion/documentation.git"
+                            },
+                            {
+                                "name": "Mechanics",
+                                "root_path": "/Interra4/5IO-Expansion/Mechanics",
+                                "url": "interra4/5io-expansion/mechanics.git"
+                            },
+                            {
+                                "name": "Firmware",
+                                "root_path": "/Interra4/5IO-Expansion/Firmware",
+                                "url": "interra4/5io-expansion/firmware.git"
+                            },
+                            {
+                                "name": "Hardware",
+                                "root_path": "/Interra4/5IO-Expansion/Hardware",
+                                "url": "interra4/5io-expansion/hardware.git"
+                            }
+                        ],
+                        "name": "5IO-Expansion",
+                        "root_path": "/Interra4/5IO-Expansion",
+                        "url": "http://pm.interra.com.tr/groups/interra4/5io-expansion"
+                    },
+                    {
+                        "name": "dscexe",
+                        "root_path": "/Interra4/dscexe",
+                        "url": "interra4/dscexe.git"
+                    },
+                    {
+                        "name": "ioservice-tester",
+                        "root_path": "/Interra4/ioservice-tester",
+                        "url": "interra4/ioservice-tester.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/Interra4/Documentation",
+                        "url": "interra4/documentation.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/Interra4/Mechanics",
+                        "url": "interra4/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/Interra4/Hardware",
+                        "url": "interra4/hardware.git"
+                    },
+                    {
+                        "name": "RMS-Shell",
+                        "root_path": "/Interra4/RMS-Shell",
+                        "url": "interra4/rms-shell.git"
+                    },
+                    {
+                        "name": "RMS-Web",
+                        "root_path": "/Interra4/RMS-Web",
+                        "url": "interra4/rms-web.git"
+                    },
+                    {
+                        "name": "iHomeTester",
+                        "root_path": "/Interra4/iHomeTester",
+                        "url": "interra4/ihometester.git"
+                    },
+                    {
+                        "name": "Interra.Services",
+                        "root_path": "/Interra4/Interra.Services",
+                        "url": "interra4/interra.services.git"
+                    },
+                    {
+                        "name": "Configurator",
+                        "root_path": "/Interra4/Configurator",
+                        "url": "interra4/configurator.git"
+                    },
+                    {
+                        "name": "ioService",
+                        "root_path": "/Interra4/ioService",
+                        "url": "interra4/ioservice.git"
+                    }
+                ],
+                "name": "Interra4",
+                "root_path": "/Interra4",
+                "url": "http://pm.interra.com.tr/groups/interra4"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/Interra5/Mechanics",
+                        "url": "interra5/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/Interra5/Hardware",
+                        "url": "interra5/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/Interra5/Documentation",
+                        "url": "interra5/documentation.git"
+                    }
+                ],
+                "name": "Interra5",
+                "root_path": "/Interra5",
+                "url": "http://pm.interra.com.tr/groups/interra5"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Software",
+                        "root_path": "/IPRoomBox/Software",
+                        "url": "iproombox/software.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/IPRoomBox/Mechanics",
+                        "url": "iproombox/mechanics.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/IPRoomBox/Firmware",
+                        "url": "iproombox/firmware.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/IPRoomBox/Hardware",
+                        "url": "iproombox/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/IPRoomBox/Documentation",
+                        "url": "iproombox/documentation.git"
+                    }
+                ],
+                "name": "IPRoomBox",
+                "root_path": "/IPRoomBox",
+                "url": "http://pm.interra.com.tr/groups/iproombox"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Knx",
+                        "root_path": "/iSwitch/Knx",
+                        "url": "iswitch/knx.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/iSwitch/Firmware",
+                        "url": "iswitch/firmware.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/iSwitch/Mechanics",
+                        "url": "iswitch/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/iSwitch/Hardware",
+                        "url": "iswitch/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/iSwitch/Documentation",
+                        "url": "iswitch/documentation.git"
+                    }
+                ],
+                "name": "iSwitch",
+                "root_path": "/iSwitch",
+                "url": "http://pm.interra.com.tr/groups/iswitch"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Hardware",
+                        "root_path": "/ISwitchFlat/Hardware",
+                        "url": "iswitchflat/hardware.git"
+                    }
+                ],
+                "name": "ISwitchFlat",
+                "root_path": "/ISwitchFlat",
+                "url": "http://pm.interra.com.tr/groups/iswitchflat"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/ISwitchTouch/Mechanics",
+                        "url": "iswitchtouch/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/ISwitchTouch/Hardware",
+                        "url": "iswitchtouch/hardware.git"
+                    }
+                ],
+                "name": "ISwitchTouch",
+                "root_path": "/ISwitchTouch",
+                "url": "http://pm.interra.com.tr/groups/iswitchtouch"
+            },
+            {
+                "children": [
+                    {
+                        "name": "documentation",
+                        "root_path": "/iVision/documentation",
+                        "url": "ivision/documentation.git"
+                    },
+                    {
+                        "name": "mechanics",
+                        "root_path": "/iVision/mechanics",
+                        "url": "ivision/mechanics.git"
+                    },
+                    {
+                        "name": "hardware",
+                        "root_path": "/iVision/hardware",
+                        "url": "ivision/hardware.git"
+                    },
+                    {
+                        "name": "software",
+                        "root_path": "/iVision/software",
+                        "url": "ivision/software.git"
+                    }
+                ],
+                "name": "iVision",
+                "root_path": "/iVision",
+                "url": "http://pm.interra.com.tr/groups/ivision"
+            },
+            {
+                "children": [
+                    {
+                        "name": "TrainingCenter",
+                        "root_path": "/KNX/TrainingCenter",
+                        "url": "knx/trainingcenter.git"
+                    },
+                    {
+                        "name": "KAIStack",
+                        "root_path": "/KNX/KAIStack",
+                        "url": "knx/kaistack.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/KNX/Documentation",
+                        "url": "knx/documentation.git"
+                    }
+                ],
+                "name": "KNX",
+                "root_path": "/KNX",
+                "url": "http://pm.interra.com.tr/groups/knx"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/KNXPowerSupply/Mechanics",
+                        "url": "knxpowersupply/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/KNXPowerSupply/Hardware",
+                        "url": "knxpowersupply/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/KNXPowerSupply/Documentation",
+                        "url": "knxpowersupply/documentation.git"
+                    }
+                ],
+                "name": "KNXPowerSupply",
+                "root_path": "/KNXPowerSupply",
+                "url": "http://pm.interra.com.tr/groups/knxpowersupply"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Knx",
+                        "root_path": "/KNXSensor/Knx",
+                        "url": "knxsensor/knx.git"
+                    },
+                    {
+                        "name": "Documents",
+                        "root_path": "/KNXSensor/Documents",
+                        "url": "knxsensor/documents.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/KNXSensor/Firmware",
+                        "url": "knxsensor/firmware.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/KNXSensor/Hardware",
+                        "url": "knxsensor/hardware.git"
+                    }
+                ],
+                "name": "KNXSensor",
+                "root_path": "/KNXSensor",
+                "url": "http://pm.interra.com.tr/groups/knxsensor"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Firmware And Reverse",
+                        "root_path": "/LG AC Gateway/Firmware And Reverse",
+                        "url": "lg-ac-gateway/firmware-and-reverse.git"
+                    },
+                    {
+                        "name": "KNX AND DOCS",
+                        "root_path": "/LG AC Gateway/KNX AND DOCS",
+                        "url": "lg-ac-gateway/knx-and-docs.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/LG AC Gateway/Hardware",
+                        "url": "lg-ac-gateway/hardware.git"
+                    }
+                ],
+                "name": "LG AC Gateway",
+                "root_path": "/LG AC Gateway",
+                "url": "http://pm.interra.com.tr/groups/lg-ac-gateway"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "InterraLib.Forms",
+                                "root_path": "/Library/DotNet/InterraLib.Forms",
+                                "url": "library/dotnet/interralib.forms.git"
+                            },
+                            {
+                                "name": "Interra.Forms.LangEdit",
+                                "root_path": "/Library/DotNet/Interra.Forms.LangEdit",
+                                "url": "library/dotnet/interra.forms.langedit.git"
+                            }
+                        ],
+                        "name": "DotNet",
+                        "root_path": "/Library/DotNet",
+                        "url": "http://pm.interra.com.tr/groups/library/dotnet"
+                    }
+                ],
+                "name": "Library",
+                "root_path": "/Library",
+                "url": "http://pm.interra.com.tr/groups/library"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Software",
+                        "root_path": "/MECentralGateway/Software",
+                        "url": "archive/mecentralgateway/software.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/MECentralGateway/Documentation",
+                        "url": "archive/mecentralgateway/documentation.git"
+                    }
+                ],
+                "name": "MECentralGateway",
+                "root_path": "/MECentralGateway",
+                "url": "http://pm.interra.com.tr/groups/archive/mecentralgateway"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Knx",
+                        "root_path": "/MEGateway/Knx",
+                        "url": "megateway/knx.git"
+                    },
+                    {
+                        "name": "Reverse",
+                        "root_path": "/MEGateway/Reverse",
+                        "url": "megateway/reverse.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/MEGateway/Mechanics",
+                        "url": "megateway/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/MEGateway/Hardware",
+                        "url": "megateway/hardware.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/MEGateway/Firmware",
+                        "url": "megateway/firmware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/MEGateway/Documentation",
+                        "url": "megateway/documentation.git"
+                    }
+                ],
+                "name": "MEGateway",
+                "root_path": "/MEGateway",
+                "url": "http://pm.interra.com.tr/groups/megateway"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Knx",
+                        "root_path": "/MHGateway/Knx",
+                        "url": "mhgateway/knx.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/MHGateway/Documentation",
+                        "url": "mhgateway/documentation.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/MHGateway/Mechanics",
+                        "url": "mhgateway/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/MHGateway/Hardware",
+                        "url": "mhgateway/hardware.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/MHGateway/Firmware",
+                        "url": "mhgateway/firmware.git"
+                    },
+                    {
+                        "name": "Reverse",
+                        "root_path": "/MHGateway/Reverse",
+                        "url": "mhgateway/reverse.git"
+                    }
+                ],
+                "name": "MHGateway",
+                "root_path": "/MHGateway",
+                "url": "http://pm.interra.com.tr/groups/mhgateway"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Aurex",
+                        "root_path": "/OEM/Aurex",
+                        "url": "oem/aurex.git"
+                    },
+                    {
+                        "name": "BAB-Technologie",
+                        "root_path": "/OEM/BAB-Technologie",
+                        "url": "oem/bab-technologie.git"
+                    },
+                    {
+                        "name": "Ingenium",
+                        "root_path": "/OEM/Ingenium",
+                        "url": "oem/ingenium.git"
+                    },
+                    {
+                        "name": "HDL",
+                        "root_path": "/OEM/HDL",
+                        "url": "oem/hdl.git"
+                    },
+                    {
+                        "name": "Tapko",
+                        "root_path": "/OEM/Tapko",
+                        "url": "oem/tapko.git"
+                    }
+                ],
+                "name": "OEM",
+                "root_path": "/OEM",
+                "url": "http://pm.interra.com.tr/groups/oem"
+            },
+            {
+                "children": [
+                    {
+                        "name": "documents",
+                        "root_path": "/poe-intercom/documents",
+                        "url": "poe-intercom/documents.git"
+                    },
+                    {
+                        "name": "software",
+                        "root_path": "/poe-intercom/software",
+                        "url": "poe-intercom/software.git"
+                    },
+                    {
+                        "name": "hardware",
+                        "root_path": "/poe-intercom/hardware",
+                        "url": "poe-intercom/hardware.git"
+                    }
+                ],
+                "name": "poe-intercom",
+                "root_path": "/poe-intercom",
+                "url": "http://pm.interra.com.tr/groups/poe-intercom"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Interra Loader",
+                        "root_path": "/Production/Interra Loader",
+                        "url": "production/interra-loader.git"
+                    }
+                ],
+                "name": "Production",
+                "root_path": "/Production",
+                "url": "http://pm.interra.com.tr/groups/production"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Documentation",
+                        "root_path": "/PushButtonInterface/Documentation",
+                        "url": "pushbuttoninterface/documentation.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/PushButtonInterface/Mechanics",
+                        "url": "pushbuttoninterface/mechanics.git"
+                    },
+                    {
+                        "name": "KNX",
+                        "root_path": "/PushButtonInterface/KNX",
+                        "url": "pushbuttoninterface/knx.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/PushButtonInterface/Firmware",
+                        "url": "pushbuttoninterface/firmware.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/PushButtonInterface/Hardware",
+                        "url": "pushbuttoninterface/hardware.git"
+                    }
+                ],
+                "name": "PushButtonInterface",
+                "root_path": "/PushButtonInterface",
+                "url": "http://pm.interra.com.tr/groups/pushbuttoninterface"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Hardware",
+                        "root_path": "/Samsung Nasa/Hardware",
+                        "url": "samsung-nasa/hardware.git"
+                    },
+                    {
+                        "name": "knx and docs",
+                        "root_path": "/Samsung Nasa/knx and docs",
+                        "url": "samsung-nasa/knx-and-docs.git"
+                    },
+                    {
+                        "name": "firmware and reverse",
+                        "root_path": "/Samsung Nasa/firmware and reverse",
+                        "url": "samsung-nasa/firmware-and-reverse.git"
+                    }
+                ],
+                "name": "Samsung Nasa",
+                "root_path": "/Samsung Nasa",
+                "url": "http://pm.interra.com.tr/groups/samsung-nasa"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Software",
+                        "root_path": "/SmartIO/Software",
+                        "url": "smartio/software.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/SmartIO/Firmware",
+                        "url": "smartio/firmware.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/SmartIO/Mechanics",
+                        "url": "smartio/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/SmartIO/Hardware",
+                        "url": "smartio/hardware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/SmartIO/Documentation",
+                        "url": "smartio/documentation.git"
+                    }
+                ],
+                "name": "SmartIO",
+                "root_path": "/SmartIO",
+                "url": "http://pm.interra.com.tr/groups/smartio"
+            },
+            {
+                "children": [
+                    {
+                        "name": "test2",
+                        "root_path": "/Test/test2",
+                        "url": "test/test2.git"
+                    },
+                    {
+                        "name": "test",
+                        "root_path": "/Test/test",
+                        "url": "test/test.git"
+                    },
+                    {
+                        "name": "iostudio",
+                        "root_path": "/Test/iostudio",
+                        "url": "test/iostudio.git"
+                    }
+                ],
+                "name": "Test",
+                "root_path": "/Test",
+                "url": "http://pm.interra.com.tr/groups/test"
+            },
+            {
+                "children": [
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/Universal Dimmer/Mechanics",
+                        "url": "universal-dimmer/mechanics.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/Universal Dimmer/Firmware",
+                        "url": "universal-dimmer/firmware.git"
+                    },
+                    {
+                        "name": "hardware",
+                        "root_path": "/Universal Dimmer/hardware",
+                        "url": "universal-dimmer/hardware.git"
+                    }
+                ],
+                "name": "Universal Dimmer",
+                "root_path": "/Universal Dimmer",
+                "url": "http://pm.interra.com.tr/groups/universal-dimmer"
+            },
+            {
+                "name": "WaterFloodDetector",
+                "root_path": "/WaterFloodDetector",
+                "url": "http://pm.interra.com.tr/groups/waterflooddetector"
+            },
+            {
+                "children": [
+                    {
+                        "name": "KNX",
+                        "root_path": "/WaterFloodDetectorKNX/KNX",
+                        "url": "waterflooddetectorknx/knx.git"
+                    },
+                    {
+                        "name": "Mechanics",
+                        "root_path": "/WaterFloodDetectorKNX/Mechanics",
+                        "url": "waterflooddetectorknx/mechanics.git"
+                    },
+                    {
+                        "name": "Hardware",
+                        "root_path": "/WaterFloodDetectorKNX/Hardware",
+                        "url": "waterflooddetectorknx/hardware.git"
+                    },
+                    {
+                        "name": "Firmware",
+                        "root_path": "/WaterFloodDetectorKNX/Firmware",
+                        "url": "waterflooddetectorknx/firmware.git"
+                    },
+                    {
+                        "name": "Documentation",
+                        "root_path": "/WaterFloodDetectorKNX/Documentation",
+                        "url": "waterflooddetectorknx/documentation.git"
+                    }
+                ],
+                "name": "WaterFloodDetectorKNX",
+                "root_path": "/WaterFloodDetectorKNX",
+                "url": "http://pm.interra.com.tr/groups/waterflooddetectorknx"
+            },
+            {
+                "children": [
+                    {
+                        "name": "interra.com.tr_SingleLanguage",
+                        "root_path": "/Web/interra.com.tr_SingleLanguage",
+                        "url": "web/interra.com.tr_singlelanguage.git"
+                    },
+                    {
+                        "name": "interra.com.tr",
+                        "root_path": "/Web/interra.com.tr",
+                        "url": "web/interra.com.tr.git"
+                    },
+                    {
+                        "name": "Directory Lister",
+                        "root_path": "/Web/Directory Lister",
+                        "url": "web/directory-lister.git"
+                    },
+                    {
+                        "name": "ISwitch Designer",
+                        "root_path": "/Web/ISwitch Designer",
+                        "url": "web/iswitch-designer.git"
+                    }
+                ],
+                "name": "Web",
+                "root_path": "/Web",
+                "url": "http://pm.interra.com.tr/groups/web"
+            }
+        ],
+        "name": "",
+        "root_path": "",
+        "url": "http://192.168.1.8"
+    }
+}
